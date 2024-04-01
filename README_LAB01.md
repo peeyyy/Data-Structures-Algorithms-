@@ -1,4 +1,4 @@
-Good day. Welcome to my Data Structures & Algorithms.
+#### Good day. Welcome to my Data Structures & Algorithms.
   > - The folder _**LAB01**_ contains the file of codes for solving and graphing the mathematical function which is named `main.py`.
   > - The text file named `data_num.txt` contains the x-values from 1-50.
   > - The `function_result.txt` contains the results from the given mathematical function.
@@ -25,3 +25,13 @@ The uploaded file `main.py` is a Python script that plots various mathematical f
 - Finally, the results are read from `function_result.txt` and plotted using matplotlib.
 
 The mathematical functions include quadratic, cubic, quintic equations, sine, cosine functions, and more. The script uses Python’s built-in `math` module for mathematical operations and `matplotlib.pyplot` for plotting. The `ast.literal_eval()` function is used to interpret the results read from the file as Python literals. This script is a good example of how Python can be used for mathematical computations and data visualization.
+
+
+### ABOUT ME
+EJ Faye A. Dulay, 1-BSCS-A 🐧
+
+09518034900 📞
+
+efadulay@usm.edu.ph 📧
+
+ejfaye.dulay@gmail.com 📧
