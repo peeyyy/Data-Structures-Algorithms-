@@ -24,4 +24,4 @@ The uploaded file `main.py` is a Python script that plots various mathematical f
 - The results are written to a file named `function_result.txt`.
 - Finally, the results are read from `function_result.txt` and plotted using matplotlib.
 
-The mathematical functions include quadratic, cubic, quintic equations, sine, cosine functions, and more. The script uses Python’s built-in math module for mathematical operations and matplotlib.pyplot for plotting. The ast.literal_eval() function is used to interpret the results read from the file as Python literals. This script is a good example of how Python can be used for mathematical computations and data visualization.
+The mathematical functions include quadratic, cubic, quintic equations, sine, cosine functions, and more. The script uses Python’s built-in `math` module for mathematical operations and `matplotlib.pyplot` for plotting. The `ast.literal_eval()` function is used to interpret the results read from the file as Python literals. This script is a good example of how Python can be used for mathematical computations and data visualization.
